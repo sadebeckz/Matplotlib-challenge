@@ -1,0 +1,1 @@
+I have included the completed files in my repository. Using Jupyter Notebook, i was able to answer all questions relative to this week's learning materials, I did use the help of online sources such as reddit and a peer for assistance with this code. 
